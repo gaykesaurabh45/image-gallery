@@ -1,0 +1,17 @@
+.img-responsive {
+    margin: 8px;
+    transition: 0.5s ease-in-out;
+}
+
+.img-responsive img-rounded:hover {
+    box-shadow: 4px 5px 5px 4px #88888888;
+    border-radius: 10px;
+}
+
+.text {
+    text-align: center;
+}
+
+.text-danger {
+    color: #000;
+}
